@@ -1,2 +1,14 @@
+# Model weights (downloaded by install.sh, never committed)
 models/
 *.gguf
+
+# Partial downloads
+*.part
+
+# OS / editor cruft
+.DS_Store
+*.swp
+*.log
+
+# Local Termux config copies
+.shellcrafter/
